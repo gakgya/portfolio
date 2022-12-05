@@ -1,0 +1,124 @@
+.work_img {
+  width: 90%;
+  height: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+.work_img img {
+  width: 90%;
+  height: 510px;
+  object-fit: contain;
+  margin: 0 auto;
+}
+.work_object {
+  height: 650px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+#multiple_main .slick-list {
+  position: relative;
+
+  display: block;
+  overflow: hidden;
+
+  margin: 0;
+  padding: 0;
+
+  width: 80%;
+  height: 600px;
+  margin: 0 auto;
+}
+
+#multiple_main .slick-prev:before {
+  font-size: 30px;
+
+  color: rgb(0, 0, 0);
+}
+#multiple_main .slick-next:before {
+  font-size: 30px;
+
+  color: rgb(0, 0, 0);
+}
+
+#multiple_main .slick-next {
+  right: 5%;
+}
+#multiple_main .slick-prev {
+  left: 5%;
+}
+
+.work_txt {
+  text-align: center;
+  height: 50px;
+}
+
+.work_hover {
+  height: 650px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: rgba(41, 41, 41, 0.781);
+  position: relative;
+  top: -650px;
+  text-align: left;
+}
+
+.work_hover h2 {
+  position: relative;
+  top: 12%;
+
+  color: white;
+}
+.work_hover p {
+  position: relative;
+  top: 10%;
+  color: white;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  left: 10px;
+}
+
+.using_tech_box {
+  position: relative;
+  top: 10%;
+  display: flex;
+}
+
+.using_tech {
+  color: white;
+  text-align: center;
+  margin-left: 10px;
+  width: 65px;
+  border-radius: 30px;
+  border: 2px solid white;
+}
+
+.git_button {
+  text-decoration: none;
+  width: 150px;
+  height: 50px;
+}
+
+.git_button div {
+  position: relative;
+  top: 9%;
+  left: 10px;
+  width: 150px;
+  height: 50px;
+  border: 2px solid white;
+  border-radius: 20px;
+  text-align: center;
+  font-size: 26px;
+  line-height: 45px;
+  color: white;
+}
+
+.git_button :hover {
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid black;
+  border-radius: 20px;
+}

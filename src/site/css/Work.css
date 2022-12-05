@@ -1,0 +1,39 @@
+#Work_standard {
+  width: 100%;
+  height: 100%;
+}
+.work_title {
+  width: 213px;
+  height: 77px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 77px;
+  text-align: center;
+  margin: 74px auto 0 auto;
+
+  color: #000000;
+}
+
+.work_subtitle {
+  width: 273px;
+  height: 32px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  margin: 52px auto 0 auto;
+
+  color: rgba(0, 0, 0, 0.49);
+}
+
+.work_list {
+  width: 70%;
+  height: 70%;
+  margin: 20px auto 0 auto;
+}

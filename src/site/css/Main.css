@@ -1,0 +1,34 @@
+#main_standard {
+  margin-top: 0px;
+}
+
+#about {
+  background-color: rgb(0, 0, 0);
+  height: 100vh;
+  margin: 0px;
+}
+
+h1 {
+  margin: 0px;
+}
+
+#skill {
+  background-color: rgb(255, 255, 255);
+  height: 100vh;
+  margin: 0px;
+}
+#work {
+  background-color: rgb(215, 242, 255);
+  height: 100vh;
+  margin: 0px;
+}
+#contact {
+  background-color: rgb(106, 141, 106);
+  height: 100vh;
+  margin: 0px;
+}
+#Profile {
+  background-color: rgb(215, 242, 255);
+  height: 100vh;
+  margin: 0px;
+}
